@@ -9,6 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fontfaceobserver": "^2.3.0",
+    "gsap": "^3.10.4",
+    "imagesloaded": "^5.0.0",
     "three": "^0.143.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.7.0"
   }
 }
